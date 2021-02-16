@@ -1,4 +1,4 @@
-# Fabricius Langauge Schema
+# Fabricius Language Schema
 
 A Fabricius document is a text file containing a JSON object with a .fab file extension, which can be read, edited and transformed with Fabricius tools (or any scripting language).
 
